@@ -46,8 +46,8 @@ cd /var/www/html
 
 ## OUTPUT
 
-### REG NUMBER:212222110019
-### NAME:keerthana jayasri sk 
+### REG NUMBER:212222220032
+### NAME:RAHUL B
 
 ### Terminal:
 ![image](https://github.com/user-attachments/assets/c3e24d34-39f2-4bc4-aa2e-34f41bb97b4b)
